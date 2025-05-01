@@ -10,16 +10,9 @@ A passionate Computer Engineering and Statistics Graduate from Canada.
 - 🚀 I'm currently learning and improving in Full-Stack technologies.
 - 🏃 I'm also a passionate runner who is trying to qualify for 2028 Olympics 
 - ✨ All of my projects are available at [GitHub](https://github.com/marsandrover).
-- 📫 How to reach me: your.email@example.com
+- 📫 How to reach me: suhaneshat@gmail.com
 
----
 
-## Connect with Me
-- [LinkedIn](https://linkedin.com/in/YOUR_LINK)
-- [GitHub](https://github.com/marsandrover)
-- [Email](mailto:your.email@example.com)
-
----
 
 ## 🛠️ Most Used Languages
 
