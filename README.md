@@ -1,6 +1,5 @@
 # Hi 👋, I'm Suha!
 
-A passionate Computer Engineering and Statistics Graduate from Canada.
 
 ---
 
